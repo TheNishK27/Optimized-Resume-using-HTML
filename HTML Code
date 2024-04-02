@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <header>
+        <h2 style="text-align: center;">NISHANT KUMAR</h2>
+    </header>
+
+    <main>
+        <section>
+            <h3>PROFILE</h3>
+            <hr>
+            <table width="100%">
+                <tr>
+                    <td style="text-align:left;">Patna, India</td>
+                    <td style="text-align:right;"><a href="https://github.com/TheNishK27">Github</a></td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;">+91 88662 00955</td>
+                    <td style="text-align:right;"><a href="https://www.linkedin.com/in/nishantkumar27">LinkedIN</a></td>
+                </tr>
+                <tr>
+                    <td style="text-align:left;">kumarexpress27@gmail.com</td>
+                    <td style="text-align:right;"><a href="https://hackerrank.com/profile/nishantk_ug23_ec">HackerRank</a></td>
+                </tr>
+            </table>
+        </section>
+        <section>
+            <h3>ABOUT ME</h3>
+            <hr>
+            <p style="text-align:justify">
+                I am Nishant Kumar, a dynamic and ambitious first-year student pursuing a Bachelor's degree in Electronics and Communication at the National Institute of Technology, Patna. With a passion for technology and coding, I am dedicated to honing my skills and contributing to the ever-evolving landscape of electronics and communication engineering.
+            </p>
+        </section>
+        <section>
+            <h3>EDUCATION</h3>
+            <hr>
+            <table width="100%">
+                <tr>
+                    <th style="text-align:left;">Sl. No.</th>
+                    <th style="text-align:left;">Degree and School</th>
+                    <th style="text-align:center;">Academic Session</th>
+                    <th style="text-align:right;">Marks/Grade</th>
+                    <th>Certificate</th>
+                </tr>
+                <tr>
+                    <td style="text-align:center;">1.</td>
+                    <td style="text-align:justify;">Bachelor of Technology, National Institute of Technology, Patna in Electronics and Communication</th>
+                    <td style="text-align:center;">2023-2027</th>
+                    <td style="text-align:center;">8.1</th>
+                    <td> <a href ="https://drive.google.com/file/d/1d9WIYq7Mb3_SfOMb4jSm7adPNgpVYJSt/view?usp=drive_link">Click Here!</a> </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center;">2.</td>
+                    <td style="text-align:justify;">Higher Secondary Education Board, Kendriya Vidyalaya Sangathan (Central Board of Secondary Education) in Mathematics, Physics and Chemistry Stream (English Medium)</th>
+                    <td style="text-align:center;">2022-2023</th>
+                    <td style="text-align:center;">96.2</th>
+                    <td> <a href ="https://drive.google.com/file/d/1g8Orun0hMxxYgAqF-t1OaVtM2sgfNQpI/view?usp=drive_link">Click Here!</a> </td>
+                </tr>
+                <tr>
+                    <td style="text-align:center;">3.</td>
+                    <td style="text-align:justify;">Secondary Education Board, Kendriya Vidyalaya Sangathan (Central Board of Secondary Education) (English Medium) </th>
+                    <td style="text-align:center;">2020-2021</th>
+                    <td style="text-align:center;">96.8</th>
+                    <td> <a href ="https://drive.google.com/file/d/1HDV4DDUoxXu7nc60mPZM2YjD5JED0VSo/view?usp=sharing">Click Here!</a> </td>
+                </tr>
+            </table>
+        </section>
+        <section>
+            <h3>SKILLS</h3>
+            <hr>
+            <table width="100%">
+                <tr>
+                    <td style="text-align:left"><b>Programming Languages</b></td>
+                    <td style="text-align:right">DSA with C++, Python, C, JavaScript</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left"><b>Frameworks and Libraries</b></td>
+                    <td style="text-align:right">HTML, CSS, MySQL</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left"><b>Soft Skills</b></td>
+                    <td style="text-align:right">Time Management, Communication, Teamwork, Attention to Detail, Work Ethic</td>
+                </tr>
+                <tr>
+                    <td style="text-align:left"><b>Version Control</b></td>
+                    <td style="text-align:right">Git, Github</td>
+                </tr>
+            </table>
+        </section>
+        <section>
+            <h3>PROJECTS</h3>
+            <hr>
+            <ul>
+                <li>
+                    <P><b>Bank Management System. </b>A basic banking management system with features for account management, transactions, and user interaction. C programming language is used for its source code. It uses functions and structure data type for its overall functioning.</P>
+                    <a href="https://github.com/TheNishK27/A-Simple-Bank-Management-System">Click Here to check Source Code on Github</a>
+                </li>
+                <li>
+                    <P><b>Calculator. </b>A simple graphical calculator application. It offers a menu-driven interface where users can choose various mathematical operations like addition, subtraction, multiplication, and division, Advanced calculations like power of a number, square root, factorial, and exponential function. It uses C++ programming language as it’s source code.</P>
+                    <a href="https://github.com/TheNishK27/Calculator">Click Here to check Source Code on Github</a>
+                </li>
+                <li>
+                    <P><b>Optimized Resume using HTML. </b>This project showcases the development of a highly optimized HTML resume designed to achieve outstanding scores with Applicant Tracking Systems (ATS). By integrating strategic design principles and leveraging the latest in SEO and keyword optimization, this resume not only stands out visually but also ranks exceptionally well in ATS evaluations, increasing the chances of making it to the top of the pile in competitive job markets.</P>
+                    <a href="https://github.com/TheNishK27/Calculator">Click Here to check Source Code on Github</a>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h3>ACHIEVEMENTS & CERTIFICATES</h3>
+            <hr>
+            <ul>
+                <li>
+                    <p>Participated in <b>IEEE SB NIT Patna</b> flagship event IMPULSE24 and achieved 3rd Position in the final round i.e. PPT Round after qualifying initial rounds i.e. the Quiz and Group Discussion rounds.</p>
+                    <a href="https://drive.google.com/file/d/1pf7NRgk8gEzOxOwY3vtDUWcdu0ryGwZR/view?usp=drive_link">Click Here to see the Certificate</a>
+                </li>
+                <li>
+                    <p>Attended the <b>ASME EFx at NIT Patna 2024,</b>, workshop on MATLAB with AI. Clinched the Gold Medal in Networking Competition showcased teamwork prowess.</p>
+                    <a href="https://drive.google.com/file/d/1pf7NRgk8gEzOxOwY3vtDUWcdu0ryGwZR/view?usp=drive_link">Click Here to see the Certificate 1</a>
+                    <br>
+                    <a href="https://drive.google.com/file/d/1v5pJYRBJnMIKVI2Z1arSyb5bTs60ADAn/view?usp=drive_link">Click Here to see the Certificate 2</a>
+                </li>
+                <li>
+                    <p>Achieved <b>Hackerrank Problem Solving (Basic)</b> Certificate after completing a Test.</p>
+                    <a href="https://drive.google.com/file/d/1X3_xRPSpi_m0UchEjkmdsbHGPcazzjY-/view?usp=sharing">Click Here to see the Certificate</a>
+                </li>
+                <li>
+                    <p>Achieved <b>SQL (Basic)</b> Certificate after completing a Test in MySQL.</p>
+                    <a href="https://www.hackerrank.com/certificates/946fa4eb3e9a">Click Here to see the Certificate</a>
+                </li>
+                <li>
+                    <p>Achieved <b>96.8% in Standard 10th CBSE Boards</b> Examination (2021). Awarded with certificate of Merit and INR 5,000 by Kendriya Vidyalaya Sangathan for being in the top 1.5% students across India.</p>
+                    <a href="https://drive.google.com/file/d/1HDV4DDUoxXu7nc60mPZM2YjD5JED0VSo/view?usp=drive_link">Click Here to see the Certificate 1</a>
+                    <br>
+                    <a href="https://drive.google.com/file/d/1Iot2YaUOyOb_xzxornlorSEHd8obROLX/view?usp=drive_link">Click Here to see the Certificate 2</a>
+                </li>
+                <li>
+                    <p>Achieved <b>96.2% in Standard 12th CBSE Boards</b> Examination (2023). Awarded with certificate of DG Merit’s Scholarship for CISF Personnel Wards and INR 25,000 and INR 10,000 by Kendriya Vidyalaya Sangathan for being in the top 1.5% students across India in the 2023 CBSE Boards Examination.</p>
+                    <a href="https://drive.google.com/file/d/1g8Orun0hMxxYgAqF-t1OaVtM2sgfNQpI/view?usp=drive_link">Click Here to see the Certificate 1</a>
+                    <br>
+                    <a href="https://www.hackerrank.com/certificates/946fa4eb3e9a">Click Here to see the Certificate 2</a>
+                    <br>
+                    <a href="https://www.hackerrank.com/certificates/946fa4eb3e9a">Click Here to see the Certificate 3</a>
+                </li>
+                <li>
+                    <p>Rank Holder in various Silver Zone Olympiads and National Science Olympiads.</p>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h3>EXTRA CURICULLAR ACTIVITIES</h3>
+            <hr>
+            <ul>
+                <li>
+                    Played sports like Field & Track Events at junior levels up to regional levels. Played Football at junior, sub junior and senior levels, also a part of NIT Patna football team.
+                </li>
+                <li>
+                    Interested and passionately doing Photography in Nature, Landscape, Monumental and Real-Life domain.
+                </li>
+                <li>
+                    Actively contributing to the IEEE Student Branch at the National Institute of Technology Patna, participating in technical discussions, workshops, and collaborative projects.
+                </li>
+                <li>
+                    Engaged Club Member at DesCo (Design Company), NIT Patna, dedicated to refining and expanding proficiency in design through hands-on practice with industry-standard software including Photoshop, Lightroom, Premiere Pro, After Effects, Illustrator, and Figma.
+                </li>
+                <li>
+                    Class Representative of my class in NIT Patna.
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h3>INTERESTS</h3>
+            <hr>
+            <ul>
+                <li>
+                    Organic Farming and Animal Husbandry.
+                </li>
+                <li>
+                    Working for community and society being part of an NGO.
+                </li>
+                <li> Web Development, Digital Art.</li>
+            </ul>
+        </section>
+        <section>
+            <h3>DECLARATION</h3>
+            <hr>
+            <form>
+                <input type="checkbox", value="Declaration">I hereby declare that the information provided herein is accurate, complete, and true to the best of my knowledge.
+            </form>
+            <BR>
+            <form>
+                <input type="date" placeholder="Enter Date">
+            </form>
+                
+            <form action="upload.php" method="post" enctype="multipart/form-data">
+                <P>Upload <b>Signature</b> in <b>jpeg/jpg</b> format only.</P>
+                <label for="fileUpload">Choose file to upload:</label>
+                <br>
+                <br>
+                <input type="file" id="fileUpload" name="fileToUpload">
+                <input type="submit" value="Upload File" name="submit">
+            </form>
+        </section>
+    </main>
+</body>
+</html>
