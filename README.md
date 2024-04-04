@@ -1,7 +1,7 @@
 #About the Project and its Elements
 
 Tables
-Tables (<table>) are employed for structured presentation, particularly in the Profile and Education sections.
+Tables "<table>" are employed for structured presentation, particularly in the Profile and Education sections.
 In the Profile section, a table is used to display contact information and online profiles side by side, providing a neat and organized layout.
 Each row in the table represents a piece of information, and the "<td>" (table data) elements within each row contain specific details like location, phone number, email, and links to various online profiles.
 
