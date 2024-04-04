@@ -1,13 +1,13 @@
 #About the Project and its Elements
 
 Tables
-Tables "<table>" are employed for structured presentation, particularly in the Profile and Education sections.
+Tables are employed for structured presentation, particularly in the Profile and Education sections.
 In the Profile section, a table is used to display contact information and online profiles side by side, providing a neat and organized layout.
-Each row in the table represents a piece of information, and the "<td>" (table data) elements within each row contain specific details like location, phone number, email, and links to various online profiles.
+Each row in the table represents a piece of information, and the elements within each row contain specific details like location, phone number, email, and links to various online profiles.
 
 HTML Structure and Organization
-The HTML document starts with the standard document type declaration "<!DOCTYPE html>" and "<html>" tag, indicating the document's type and root element.
-The <head> section contains meta tags for character set and viewport settings, and it also includes a "<title>" tag for the document title.
+The HTML document starts with the standard document type declaration "!DOCTYPE html" and "html" tag, indicating the document's type and root element.
+The <head> section contains meta tags for character set and viewport settings, and it also includes a "title" tag for the document title.
 Inline styles are applied within HTML elements using the style attribute for simple styling, such as text alignment (text-align) and font styles.
 
 Links
